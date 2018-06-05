@@ -1,0 +1,3 @@
+[submodule "web/app/themes/skyhigh"]
+	path = web/app/themes/skyhigh
+	url = https://github.com/bryan-ibinex/last-skyhigh.git
